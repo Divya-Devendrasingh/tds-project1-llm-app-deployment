@@ -1,0 +1,11 @@
+{
+  "email": "25ds1000013@ds.study.ac.in",
+  "secret": "my-tds-project-secret",
+  "task": "test-captcha-solver",
+  "round": 1,
+  "nonce": "abc123",
+  "brief": "This is a test task for GitHub repo creation",
+  "checks": ["Repo has MIT license", "README.md is professional"],
+  "evaluation_url": "http://example.com/notify",
+  "attachments": []
+}
