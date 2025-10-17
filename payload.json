@@ -4,6 +4,6 @@
   "round": 1,
   "nonce": "abc123",
   "repo_url": "https://github.com/Divya-Devendrasingh/test-captcha-solver-1",
-  "commit_sha": "<actual_commit_sha>",
+  "commit_sha": "a1b2c3d4e5",
   "pages_url": "https://Divya-Devendrasingh.github.io/test-captcha-solver-1/"
 }
