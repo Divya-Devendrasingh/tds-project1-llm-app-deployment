@@ -7,6 +7,7 @@ This repo contains the source code for my LLM-powered FastAPI app, deployed on H
 - Live API: https://divyads-tds-project1-llm.hf.space/
 - Test the root: GET `/` → `{"Hello": "World!"}`
 - LLM Endpoint: POST `/generate` with JSON body `{"prompt": "Your text", "secret": {"secret": "my-tds-project-secret"}}`
+- https://github.com/Divya-Devendrasingh/test-captcha-solver-1
 
 ## Setup Locally
 1. Clone: `git clone https://github.com/Divya-Devendrasingh/tds-project1-llm-app-deployment.git`
